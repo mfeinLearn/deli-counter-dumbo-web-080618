@@ -3,5 +3,6 @@
 def line
 end
 
-def  
+def take_a_number()
 end
+
